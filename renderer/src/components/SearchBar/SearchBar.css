@@ -15,6 +15,7 @@
     border-radius: 5px;
     border: 1px solid #17153B;
     background-color: #2E236C;
+    color: #fff;
 }
 
 .search-bar .search-box::placeholder {
